@@ -42,12 +42,12 @@ document.addEventListener('DOMContentLoaded', () => {
     githubGrid.innerHTML = `
 
       <div class="card" data-aos="zoom-in">
-        <img src="https://streak-stats.demolab.com?user=Vibhanshusoni&theme=${streakTheme}" 
+        <img src="https://streak-stats.demolab.com?user=Shubhamkumar&theme=${streakTheme}" 
              alt="GitHub Streak" loading="lazy">
       </div>
 
       <div class="card" data-aos="zoom-in">
-        <img src="https://leetcard.jacoblin.cool/vibhanshu_soni?theme=${leetTheme}&ext=contest" 
+        <img src="https://leetcard.jacoblin.cool/shubham_kumar?theme=${leetTheme}&ext=contest" 
              alt="LeetCode Stats" loading="lazy">
       </div>
     `;
